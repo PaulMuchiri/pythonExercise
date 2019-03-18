@@ -26,6 +26,9 @@ if choice == "1":
 #condition for woman       
 elif choice == "2":
     print("if you are a woman there are three things involved, its either you are 1.rich 2.middle class or 3.Poor")
+
+
+    
     choice = input(">")
     if choice == "1":
         print("you Will not Get married")
