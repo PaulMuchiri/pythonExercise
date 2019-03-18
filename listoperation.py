@@ -1,6 +1,6 @@
 #creating list
 mylist = [10, 234 , 13, 43, 143, 54,87,123,543,678,908,345,8756]
-even_number =[]
+even_number =[]#empty list
 #calling my list
 print(mylist)
 print("\n")
